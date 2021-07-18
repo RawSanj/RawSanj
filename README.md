@@ -33,7 +33,6 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-00ADD8?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-00ADD8?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-00ADD8?style=for-the-badge&logo=cloudfoundry&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-00ADD8?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
  ### Activity
   
