@@ -4,7 +4,7 @@
   <sup>
     <br/>
      <a href="https://www.linkedin.com/in/rawsanj" target="_blank">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-/rawsanj-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rawsanj" />
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-/in/rawsanj-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rawsanj" />
      </a>
     <a href="https://rawsanj.dev" target="_blank">
       <img alt="Website Badge" src="https://img.shields.io/badge/-rawsanj.dev-4CAF50?style=for-the-badge&logo=curl&logoColor=white&link=https://rawsanj.dev" />
