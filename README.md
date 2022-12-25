@@ -15,24 +15,28 @@
     <a href="https://github.com/RawSanj" target="_blank">
       <img alt="Github Badge" src="https://img.shields.io/badge/-/RawSanj-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RawSanj" />
      </a>
-  </sup>
+         <a href="https://stackoverflow.com/users/5702727/sanjay-rawat?tab=profile" target="_blank">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/5702727/sanjay-rawat?tab=profile" />
+     </a>
+   </sup>
 </h2>
 
  ### About me
 
  - 🔭 **Working:** Backend developer working on Reactive Spring Boot, Kafka, Cassandra, Microservices, AWS.
- - 🌱 **Learning:** Go | Scala | Design patterns | Microservices
- - 💬 **Ask me about:** Java | Reactive Spring | AWS
+ - 🌱 **Learning:** Go | Scala | Design Patterns | Microservices
+ - 💬 **Ask me about:** Java | Reactive Spring | AWS 
  
- ### Languages & Tools
+ ### Languages, Frameworks and Platforms
  
-![Java](https://img.shields.io/badge/-Java-00ADD8?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-00ADD8?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-00ADD8?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Cassandra](https://img.shields.io/badge/-Cassandra-00ADD8?style=for-the-badge&logo=apachecassandra&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-00ADD8?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-00ADD8?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-00ADD8?style=for-the-badge&logo=cloudfoundry&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=openjdk&logoColor=5382a1)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-4d7ddd?&style=for-the-badge&logo=kotlin&logoColor=f7880d)&nbsp;
+![Project Reactor](https://img.shields.io/badge/Project_Reactor-6db33f?style=for-the-badge&logo=ReactiveX&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-727272?style=for-the-badge&logo=apachekafka&logoColor=black)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=d4effc)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9a00)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
  ### Activity
   
@@ -42,3 +46,4 @@
 <a href="https://github.com/RawSanj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawsanj&hide=html,css,shell,Batchfile,ApacheConf&layout=compact&langs_count=6&theme=vue&border_radius=0&cache_seconds=21600" />
 </a>
+
