@@ -24,7 +24,7 @@
  ### About me
 
  - 🔭 **Working:** Backend developer working on Reactive Spring Boot, Kafka, Cassandra, Microservices, AWS.
- - 🌱 **Learning:** Go | Scala | Design Patterns | Microservices
+ - 🌱 **Learning:** Go | Scala | Design Patterns
  - 💬 **Ask me about:** Java | Reactive Spring | AWS 
  
  ### Languages, Frameworks and Platforms
