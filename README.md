@@ -46,5 +46,3 @@
 <a href="https://github.com/RawSanj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawsanj&hide=html,css,shell,Batchfile,ApacheConf&layout=compact&langs_count=6&theme=vue&border_radius=0&cache_seconds=21600" />
 </a>
-<br><br>
-<a href="https://u8views.com/github/RawSanj"><img src="https://u8views.com/api/v1/github/profiles/13738294/views/day-week-month-total-count.svg"></a>
