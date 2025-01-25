@@ -9,8 +9,8 @@
     <a href="https://rawsanj.dev" target="_blank">
       <img alt="Website Badge" src="https://img.shields.io/badge/-rawsanj.dev-4CAF50?style=for-the-badge&logo=curl&logoColor=white&link=https://rawsanj.dev" />
     </a>
-    <a href="https://twitter.com/Raw_Sanj" target="_blank">
-      <img alt="Twitter Badge" src="https://img.shields.io/static/v1?label=&message=@Raw_Sanj&color=E8EAEC&style=for-the-badge&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/Raw_Sanj"/>
+    <a href="https://x.com/Raw_Sanj" target="_blank">
+      <img alt="X Badge" src="https://img.shields.io/static/v1?label=&message=@Raw_Sanj&color=E8EAEC&style=for-the-badge&logo=X&logoColor=000000&link=https://twitter.com/Raw_Sanj"/>
      </a>
     <a href="https://github.com/RawSanj" target="_blank">
       <img alt="Github Badge" src="https://img.shields.io/badge/-/RawSanj-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RawSanj" />
